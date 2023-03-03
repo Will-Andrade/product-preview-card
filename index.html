@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png" />
+  <link rel="stylesheet" href="css/style.css" />
+  <title>Frontend Mentor | Product preview card component</title>
+</head>
+<body>
+  <main class="content">
+    <picture class="product-img">
+      <source 
+        media="(min-width:1000px)" 
+        srcset="images/image-product-desktop.jpg" 
+        alt="Gabrielle Essence Eau De Parfum" 
+      />
+
+      <img src="images/image-product-mobile.jpg" alt="Gabrielle Essence Eau De Parfum" />
+    </picture>
+  
+    <div class="product-content">
+      <h2 class="subtitle">PERFUME</h2>
+  
+      <h1 class="title">Gabrielle Essence Eau De Parfum</h1>
+    
+      <p class="description">
+        A floral, solar and voluptuous interpretation composed by Olivier Polge,Perfumer-Creator for the House of CHANEL.
+      </p>
+    
+      <div class="product-prices">
+        <span class="current-price">$149.99</span>
+        <span class="previous-price">$169.99</span>
+      </div>
+
+      <a href="#" class="cta">
+        <img src="images/icon-cart.svg" alt="cart icon" />
+        <span>Add to Cart</span>
+      </a>
+    </div>
+  </main>
+
+  <footer class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="https://github.com/Will-Andrade" target="_blank">Willian Andrade</a>.
+  </>
+  </footer>
+</body>
+</html>
