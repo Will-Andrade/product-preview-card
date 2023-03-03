@@ -6,7 +6,7 @@ This is my solution to the [Product preview card component challenge on Frontend
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Demos](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution: [Solution](https://github.com/Will-Andrade/product-preview-card)
+- Live Site: [Live](https://ad-product-preview-card.netlify.app/)
 
 ## My process
 
